@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Devops-TodoApp-/static/css/main.f98bb61f.css",
+    "main.js": "/Devops-TodoApp-/static/js/main.3197680d.js",
+    "static/js/453.ed3810f9.chunk.js": "/Devops-TodoApp-/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Devops-TodoApp-/index.html",
+    "main.f98bb61f.css.map": "/Devops-TodoApp-/static/css/main.f98bb61f.css.map",
+    "main.3197680d.js.map": "/Devops-TodoApp-/static/js/main.3197680d.js.map",
+    "453.ed3810f9.chunk.js.map": "/Devops-TodoApp-/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f98bb61f.css",
+    "static/js/main.3197680d.js"
+  ]
+}
