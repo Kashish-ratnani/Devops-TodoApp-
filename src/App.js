@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>📝 To-Do List (CRUD)</h1>
+      <h1>kaam karnai ki cheez</h1>
       <div className="input-section">
         <input
           type="text"
